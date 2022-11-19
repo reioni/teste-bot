@@ -1,5 +1,5 @@
 {
-    "name": "Bottus",
+    "name": "oni-md",
     "description": " Whatsapp bot.",
     "keywords": [
         "whatsapp",
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "NᴇᷠxᷱꪊSᗒsɪʀ⁩⚠︎,📌"
+            "value": "oni-md,📌"
         },
         "DISABLE_BOT":{
          "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
