@@ -3,5 +3,5 @@ Apenas um teste para configurar bot em qr session com o id da conexão do qr dep
 caso queira fazer testes e mudanças nesta script para seus proprios projetos está autorizado a uzar.
 
 
-#PROPOSITO
+# PROPOSITO
 Facilitar a hospedagem na heruko.
